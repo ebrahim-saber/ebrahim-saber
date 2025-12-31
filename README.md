@@ -15,7 +15,7 @@
 - 🎯 Focused on **Back-End Development** using modern .NET technologies.  
 - 🌱 Currently mastering **ASP.NET Core**, **Entity Framework**, and **Clean Architecture**.  
 - 🏆 Strong background in **APIs**, **database design**, and **system architecture**.  
-- 💡 I love creating scalable, secure, production-ready applications.  
+- 💡 I enjoy building secure, scalable, production-ready applications.  
 
 ---
 
@@ -33,53 +33,36 @@
 ---
 
 ## 🔥 Core Concepts  
-✅ **LINQ** – powerful and efficient data querying  
-✅ **SOLID Principles** – writing maintainable and scalable code  
-✅ **Secure APIs with JWT**  
-✅ **Containerization with Docker**  
-✅ **Azure Cloud Services**  
-✅ **SQL Server & EF Core database management**  
+✅ LINQ — efficient data querying  
+✅ SOLID Principles — scalable, maintainable code  
+✅ Secure APIs with JWT  
+✅ Containerization with Docker  
+✅ Azure Cloud Services  
+✅ SQL Server + EF Core for database management  
+
+---
+
+## 🟣 GitHub Summary  
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EbrahimSaber&theme=radical" width="96%" />
+</div>
 
 ---
 
 ## 📈 GitHub Stats  
-<div align="center" style="background-color:#0d1117; padding:20px; border-radius:10px; width:80%; color:#c9d1d9; font-family:sans-serif;">
-  <h2 style="color:#ff007f; margin-bottom:20px;">Git<span style="color:#7d56f3;">Hub</span> Stats</h2>
-  <ul style="list-style:none; padding:0; text-align:left; display:inline-block;">
-    <li>⭐ <strong>Total Stars Earned:</strong>  —</li>
-    <li>🔥 <strong>Total Commits:</strong> —</li>
-    <li>🔄 <strong>Total PRs:</strong> —</li>
-    <li>🚀 <strong>Total Issues:</strong> —</li>
-  </ul>
-  <div style="display:inline-block; margin-top:10px;">
-    <svg width="100" height="100">
-      <circle cx="50" cy="50" r="40" stroke="#7d56f3" stroke-width="5" fill="none" />
-      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#c9d1d9" font-size="20" font-weight="bold">.NET</text>
-    </svg>
-  </div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimSaber&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimSaber&layout=compact&theme=radical&langs_count=6&hide=html,css,javascript&hide_border=true" width="50%" />
 </div>
 
 ---
 
-## 🌟 Top Languages  
+## 🐍 Contribution Snake  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimSaber&layout=compact&theme=radical&langs_count=6&hide=html,css,javascript" width="50%" />
-</div>
-
----
-
-## 🏆 Achievements  
-- 🚀 Built & optimized APIs using **.NET Core**, **EF**, and **SQL Server**  
-- 🔐 Implemented secure authentication with **JWT**  
-- 🔄 Designed scalable systems using **Clean Architecture**  
-- 📡 Integrated real-time systems using **SignalR**  
-- 🛠️ Containerized projects with **Docker**  
-
----
-
-## 🏅 Contributions  
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EbrahimSaber&theme=radical" width="96%" />
+  <img src="https://raw.githubusercontent.com/EbrahimSaber/EbrahimSaber/output/github-contribution-grid-snake.svg" />
 </div>
 
 ---
