@@ -51,12 +51,17 @@
 
 ## 📈 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EbrahimSaber&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ebrahim-saber&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimSaber&layout=compact&theme=radical&langs_count=6&hide=html,css,javascript&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ebrahim-saber&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=ebrahim-saber&theme=tokyonight&hide_border=true" />
+</div>
+
 
 ---
 
